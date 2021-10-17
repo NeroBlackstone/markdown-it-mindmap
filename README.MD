@@ -8,7 +8,7 @@ A [markdown-it](https://github.com/markdown-it/markdown-it) plugin add latest [m
 
 > This package has only been tested on Deno. But it should also work with node.js.
 
-Import the module from [deno.land/x](https://deno.land/x/markdown_it_mindmap@0.1.0):
+Import the module from [deno.land/x](https://deno.land/x/markdown_it_mindmap@0.1.1):
 
 ``` js
 import markmap from "https://deno.land/x/markdown_it_mindmap@0.1.0/index.js"
